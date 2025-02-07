@@ -1,0 +1,7 @@
+{
+  "build": {
+    "development": {
+      "bun": "1.0.0"
+    }
+  }
+}
